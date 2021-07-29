@@ -1,7 +1,7 @@
 # OpenHIE Laboratory Workflows Implementation Guide
 
 ## Overview
-
+See Published IG here: i-tech-uw.github.io/empty-ig/
 
 ## Building Locally
 ### 1. Install nodejs
@@ -23,9 +23,9 @@ https://java.com/en/download/help/download_options.html
 ### 5. Update IG Publisher
     ./_updatePublisher.sh
 
-### Run IG Publisher
+### 6. Run IG Publisher
     ./_genonce.sh
 
-### Open Published IG
+### 7. Open Published IG
     Open `./output/
 
